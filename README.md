@@ -12,7 +12,7 @@
 
 <br>
 
-> <img alt="botdexdamar" src="./images/home.png">
+<img alt="botdexdamar" src="./images/home.png">
 
 <br>
 
@@ -28,6 +28,8 @@ Botdexdamar is an automated tool designed for trading and transacting on decentr
 - Does this bot support remote control? Yes, this bot supports additional remote control using telegrambot, you can set it in the bot.ini file.
 - Does it support all dex on the ethereum network? yes if the dex router code uses uniswapV2 or uniswapV3 scheme.
 - Is this bot illegal? This bot is only for technical purposes so if you do other things, it is your responsibility.
+- Is this paid? yes.
+- Is there a trial? You may with certain conditions, contact us.
 - Is this bot safe from theft of funds? Yes, this bot is very safe because this bot runs on the client side or all processes run on your computer, if you are very skilled in computer engineering you can monitor network traffic for evidence.
 
 ### 💻 Step to install
@@ -37,6 +39,9 @@ Botdexdamar is an automated tool designed for trading and transacting on decentr
 - Run the bot file, if in windows you can double click or through the terminal
 - Select the start menu
 - Finish
+
+### 📥 Test bot
+you can get started right away using pretx bot for free
 
 ### 🌐 Website
 under construction

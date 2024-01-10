@@ -17,7 +17,11 @@
 <br>
 
 ### 📌 Introduction
-Botdexdamar is an automated tool designed for trading and transacting on decentralized blockchains. The bot is equipped with various features that allow it to smoothly operate on decentralized exchanges. It can monitor market conditions and execute trades based on preset parameters. Its automated nature enables it to run 24/7 without needing constant human oversight. Botdexdamar also connects directly to blockchain nodes via APIs to integrate with various decentralized protocols. This gives it access to a wide range of investment opportunities in DeFi. With botdexdamar, you can perform transactions like buying new token launches faster. The bot can run on platforms like Uniswap, Pancakeswap, and others. Additionally, it supports two different blockchain - (EVM) and Solana.
+Botdexdamar is an automated tool designed to trade and transact on decentralized blockchains. This bot has been established since 2019. The bot is equipped with various features that allow it to operate smoothly on decentralized exchanges. It can monitor market conditions and execute trades based on predefined parameters. Its automated nature allows it to run 24/7 without the need for constant human supervision. Botdexdamar also connects directly to blockchain nodes through APIs to integrate with various decentralized protocols. This gives it access to various investment opportunities in DeFi. With botdexdamar, you can make transactions such as buying new token launches faster. This bot can run on platforms like Uniswap, Pancakeswap, and others. Additionally, it supports different blockchains such as evm, solana.
+
+### 📡 Support Blockchain
+- evm (ethereum, bsc, arbitrum, ...etc) mainnet / testnet
+- solana mainnet / testnet
 
 ### ❓ Question
 - Is there a monthly fee? No, you only need to pay once.

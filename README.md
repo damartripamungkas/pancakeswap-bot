@@ -51,7 +51,7 @@ you can get started right away using pretx bot for free
 under construction
 
 ### 📖 Documentation
-under construction
+https://damartripamungkas.gitbook.io/botdexdamar
 
 ### 📲 ContactUs
 https://t.me/damartripamungkas

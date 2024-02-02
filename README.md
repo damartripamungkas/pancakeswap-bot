@@ -51,10 +51,10 @@ you can get started right away using pretx bot for free
 under construction
 
 ### 📖 Documentation
-https://damartripamungkas.gitbook.io/botdexdamar
+https://docs.botdexdamar.xyz
 
 ### 📲 ContactUs
-https://t.me/damartripamungkas
+[telegram](https://t.me/damartripamungkas)
 
 ### 🔔 Community
 https://t.me/botdexdamar
